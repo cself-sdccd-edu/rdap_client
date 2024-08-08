@@ -1,2 +1,2 @@
 # rdap_client
-RDAP Client
+RDAP Client for doing whois type lookups
